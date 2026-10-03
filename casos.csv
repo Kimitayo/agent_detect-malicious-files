@@ -1,0 +1,11 @@
+id,nome_arquivo,extensao,tamanho_kb,origem,hash,assinatura_digital,criou_processo,alterou_registro,criou_arquivo,conexao_externa,resultado_esperado
+1,relatorio.pdf,.pdf,850,download,hash_benigno_001,valida,False,False,False,False,BENIGNO
+2,invoice.exe,.exe,2450,email,hash_malicioso_001,invalida,True,True,False,True,MALICIOSO
+3,foto.jpg,.jpg,3200,pendrive,hash_desconhecido_001,ausente,False,False,False,False,BENIGNO
+4,update.exe,.exe,1800,site_desconhecido,hash_desconhecido_002,ausente,True,True,True,True,MALICIOSO
+5,documento.docx,.docx,540,email,hash_benigno_002,ausente,False,False,False,False,BENIGNO
+6,setup.exe,.exe,5200,site_oficial,hash_desconhecido_003,valida,True,False,False,True,SUSPEITO
+7,script.ps1,.ps1,45,email,hash_desconhecido_004,ausente,True,True,False,True,MALICIOSO
+8,imagem.png,.png,1200,download,hash_benigno_003,ausente,False,False,False,False,BENIGNO
+9,game_crack.exe,.exe,7600,site_desconhecido,hash_desconhecido_005,ausente,True,False,True,True,MALICIOSO
+10,backup.zip,.zip,15000,rede_interna,hash_desconhecido_006,ausente,False,False,False,False,SUSPEITO

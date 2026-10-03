@@ -1,0 +1,5 @@
+hash,status,descricao
+hash_benigno_001,benigno,Arquivo conhecido como legítimo e sem indícios de atividade maliciosa.
+hash_malicioso_001,malicioso,Arquivo previamente identificado como malicioso na base controlada do projeto.
+hash_benigno_002,benigno,Arquivo conhecido como legítimo e sem indícios de atividade maliciosa.
+hash_benigno_003,benigno,Arquivo conhecido como legítimo e sem indícios de atividade maliciosa.
